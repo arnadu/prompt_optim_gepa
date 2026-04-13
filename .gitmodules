@@ -1,0 +1,3 @@
+[submodule "gepa"]
+	path = gepa
+	url = https://github.com/gepa-ai/gepa.git
